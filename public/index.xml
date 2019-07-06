@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Icarus</title>
-    <link>https://example.org/</link>
+    <link>https://zmman.github.io/</link>
     <description>Recent content on Icarus</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 04 Jul 2019 23:36:43 +0800</lastBuildDate>
     
-	<atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://zmman.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Myfirst</title>
-      <link>https://example.org/2019/07/04/myfirst/</link>
+      <link>https://zmman.github.io/2019/07/04/myfirst/</link>
       <pubDate>Thu, 04 Jul 2019 23:36:43 +0800</pubDate>
       
-      <guid>https://example.org/2019/07/04/myfirst/</guid>
+      <guid>https://zmman.github.io/2019/07/04/myfirst/</guid>
       <description></description>
     </item>
     
